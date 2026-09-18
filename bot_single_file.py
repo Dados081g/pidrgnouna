@@ -31,10 +31,10 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 # CONFIG
 # =========================================================
 
-BOT_TOKEN = "ВСТАВЬ_СЮДА_ТОКЕН_БОТА"
+BOT_TOKEN = "8931268434:AAFueu8bchNprBovQgzRdedRfrONB6pNr-U"
 
 ADMIN_IDS = [
-    123456789,  # <- замени на свой Telegram ID
+    5000488732,  # <- замени на свой Telegram ID
 ]
 
 DB_PATH = "shop.db"
